@@ -1,0 +1,11 @@
+---
+title: Day one
+date: 2016-10-05 11:00:00 Z
+---
+
+# Day One
+
+### The beginning was hard. This is a lot of noise but if I take 1 step every it should be ok
+
+* Learn how site leaf works
+* Write about the first day.
