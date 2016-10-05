@@ -18,7 +18,7 @@ baseurl:
 url: http://testlearn.siteleaf.net
 twitter_username: your-name
 github_username: your-name
-g_analytics: 
+g_analytics: 1
 isolang: en
 close_btn: Close
 home_btn: Home
